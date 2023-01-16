@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kzsecsol
-- 👀 I’m interested in All things Cyber Security/SOC Analyst L1 
-- 🌱 I’m currently learning Security+/Google IT Support Certs.
-- 💞️ I’m looking to collaborate on Anything related to training for 1st SOC L1 job. Any open source coding project's. 
-- 📫 How to reach me at jkozac12@gmail.com
+- 👋 Hi, I’m @kzsecsol
+- 👀 I’m interested in all things Ethical Hacking/Software Engineering(Full Stack Development)
+- 🌱 I’m currently studying Software Engineering and Ethical Hacking
+- 💞️ I’m looking to collaborate on any open source coding project's in addition to actively looking for my first position 
+- 📫 How to reach me at mtwashingtonsec@proton.me
 
 
